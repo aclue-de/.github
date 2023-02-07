@@ -1,6 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=%20Aclue&fontSize=90&fontAlignY=45&desc=Digital%20Excellence&descSize=10&descAlign=58&descAlignY=60&animation=scaleIn&color=5e42f5&fontColor=fff)](https://www.aclue.de/)
 
-Willkommen in unserer Github-Organisation, wir hoffen, dass du hier etwas Nützliches finden wirst. Fühl dich frei, etwas beizutragen oder mit uns in Kontakt zu treten, wenn Du Fragen hast oder über ein spannendes Thema mit uns sprechen möchtest.
+Willkommen in unserer GitHub-Organisation, wir hoffen, dass Du hier etwas Nützliches finden wirst. Fühl dich frei, etwas beizutragen oder mit uns in Kontakt zu treten, wenn Du Fragen hast oder über ein spannendes Thema mit uns sprechen möchtest.
 
 ## Über uns
 
