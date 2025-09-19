@@ -10,10 +10,10 @@ Mit klarem Technologiefokus widmen wir uns in cross-funktionalen Teams den Herau
 
 ## Links
 
-[![Aclue](https://www.aclue.de/wp-content/uploads/2022/11/220818_ACLUE_Logo_RGB_pos_blue_Kontur-e1668519729343.png)](https://www.aclue.de/)
+[![Aclue](../Logo.png)](https://www.aclue.de/)
 
-[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/pages/acluegmbh)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aclue-gmbh/)
+[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/pages/acluegmbh)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aclue.de/)
 
 ## Unsere Superkräfte
@@ -26,9 +26,9 @@ Mit klarem Technologiefokus widmen wir uns in cross-funktionalen Teams den Herau
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -37,22 +37,12 @@ Mit klarem Technologiefokus widmen wir uns in cross-funktionalen Teams den Herau
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=fff)
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-## Unsere öffentlichen Projekte
+## Findest du gut?
 
-### Enterprise Starter
-
-Im Open-Source Projekt [Enterprise-Starter](https://github.com/enterprise-starters/enterprise-application-spring-boot-starter) haben wir unser Wissen in Form eines Werkzeugkoffers gebündelt und bringen damit unsere Best-Practices mit ins Projekt.
-
-### Micro Frontends
-
-Komplexe Anwendungen werden heutzutage nach dem Self-contained Systems-Ansatz entwickelt. Hierbei kümmern sich cross-funktionale Teams um die eigenständige Entwicklung fachlicher Teilbereiche. Zur Strukturierung kommen im Backend Microservices und auf dem Client Microfrontends zum Einsatz.
-
-Anstelle eines großen Frontends werden mehrere einzelne Frontends entwickelt, die zusammengenommen das Gesamtsystem bilden. [Mehr Infos hier](https://github.com/aclue-de/FrontendWorkshop)
+[Dann bewirb dich bei uns.](https://www.aclue.de/karriere) Wir freuen uns von dir und deiner Passion zu hören.
